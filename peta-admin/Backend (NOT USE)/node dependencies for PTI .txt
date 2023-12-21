@@ -1,0 +1,9 @@
+node dependencies for PTI :
+Node.js : npm init -y
+Express : npm install express mysql2 cors
+Axios : npm install axios
+bcrypt : npm install express-session bcrypt
+
+Pertama mulai node index.js untuk memulai server yang telah terhubung ke mysql
+
+Lalu jalankan node fetchData.js untuk mengambil data terbaru dari mysql untuk mengganti file js "Pointsfromtable_1.js" yang berada di folder data

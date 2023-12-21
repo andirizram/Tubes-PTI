@@ -1,0 +1,9 @@
+hapus ; pada file php.ini di xampp/php/php.ini pada :
+;extension=gd
+
+setelah itu install dibawah ini : 
+
+buka terminal pada folder pagination-table, lalu jalankan : 
+
+composer require phpoffice/phpspreadsheet --prefer-dist
+
