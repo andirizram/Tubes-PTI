@@ -9,7 +9,7 @@ Sistem Informasi Daerah Berpotensi Gempa di Sumatera adalah suatu platform tekno
 - Mengelola titik gempa yang ada pada database<br>
 - Mengelola titik gempa pada peta untuk digunakan pada analisis
 
-<h3>Anggota</h3>:
+<h3>Anggota:</h3>
 1. Andika Rizki Ramdhan (120140002)<br>
 2. Denny Prayoga Setiawan Halim (120140012)<br>
 3. Debora Sidabutar (120140015)<br>
