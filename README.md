@@ -1,4 +1,4 @@
-<h1>Tugas Besar Proyek Teknologi Informasi</h1><br>
+<h1>Tugas Besar Proyek Teknologi Informasi</h1>
 <h2>Sistem Informasi Daerah Berpotensi Gempa di Sumatera BBMKG WILAYAH I MEDAN</h3>
 
 <h3>Deskripsi Sistem:</h3><br>
