@@ -1,8 +1,7 @@
-Tugas Besar Proyek Teknologi Informasi
-Sistem Informasi Daerah Berpotensi Gempa di Sumatera
-BBMKG WILAYAH I MEDAN
+<p3>Tugas Besar Proyek Teknologi Informasi</p3><br>
+<p2>Sistem Informasi Daerah Berpotensi Gempa di Sumatera BBMKG WILAYAH I MEDAN</p2>
 
-Deskripsi Sistem:
+Deskripsi Sistem:<br>
 Sistem Informasi Daerah Berpotensi Gempa di Sumatera adalah suatu platform teknologi yang dirancang untuk mengumpulkan, menyimpan, mengelola, dan menyajikan informasi terkait potensi gempa bumi di wilayah Sumatera. Sistem ini didesain untuk memberikan pemahaman yang lebih baik terhadap risiko gempa dan membantu dalam pengambilan keputusan yang cerdas terkait mitigasi dan manajemen bencana.
 
 Fitur:
